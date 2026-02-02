@@ -27,3 +27,5 @@ print("average",average)
 
 clg="vtu"
 print(clg)
+
+print("day")
